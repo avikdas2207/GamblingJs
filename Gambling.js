@@ -1,2 +1,3 @@
-const STACK_AMOUNT = 100 ;
-const BETTING_AMOUNT = 1 ;
+const Utility = require('./utility');
+const result = Utility.GamblingGame();
+console.log(result);
