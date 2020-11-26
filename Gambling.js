@@ -1,1 +1,2 @@
-console.log("Welcome To Gambling Simulation")
+const STACK_AMOUNT = 100 ;
+const BETTING_AMOUNT = 1 ;
